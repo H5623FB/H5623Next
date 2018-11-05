@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "html2canvas": "^1.0.0-alpha.12",
+    "jspdf": "^1.4.1",
     "next": "^7.0.2",
     "react": "^16.6.0",
     "react-dom": "^16.6.0"
